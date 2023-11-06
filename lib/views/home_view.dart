@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:hangman/views/game_view.dart';
+import 'package:hangman/controllers/game_view.dart';
 
 class HomeView extends StatelessWidget {
   @override
